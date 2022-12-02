@@ -27,11 +27,6 @@ export const StyledJsx = () => {
                     border:none;
                     padding:8px;
                     border-radius:8px;
-                    &:hover{
-                        background-color: #aaa;
-                        color: #fff;
-                        cursor: pointer;
-                    }
                 }
             `}</style>
         </>
